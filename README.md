@@ -1,5 +1,5 @@
 ## Original publication
-([Français](##Publication-originale))
+([Français](#Publication-originale))
 
 https://doi.org/10.4095/291993
 
@@ -18,7 +18,7 @@ ESRI ArcGIS Desktop Suite 10.1.x to 10.8.x
 ---
 
 ## Publication originale
-([English](##Original-publication))
+([English](#Original-publication))
 
 https://doi.org/10.4095/291993
 
