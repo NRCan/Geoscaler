@@ -15,6 +15,9 @@ ESRI ArcGIS 10.0 or later (ArcINFO License);
 ## Tested and works on
 ESRI ArcGIS Desktop Suite 10.1.x to 10.8.x
 
+#### Huot-Vézina, G., Natural Resources Canada, Geological Survey of Canada
+##### © His Majesty the King in Right of Canada as represented by the Minister of Natural Resources, 2023.
+
 ---
 
 ## Publication originale
@@ -33,3 +36,6 @@ ESRI ArcGIS 10.0 or later (ArcINFO License);
 
 ## Testé compatible avec
 ESRI ArcGIS Desktop Suite 10.1.x to 10.8.x
+
+#### Huot-Vézina, G., Ressources naturelles Canada, Commission géologique du Canada.
+##### © Sa Majesté le Roi du Chef tu Canada représenté par le ministre des Ressources naturelles, 2023.
